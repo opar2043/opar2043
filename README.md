@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://i.ibb.co.com/C5mPXqWy/git-Hub-Png2.png"  />
+  <img height="400" src="https://i.ibb.co.com/C5mPXqWy/git-Hub-Png2.png"  />
 </div>
 
 ###
@@ -80,10 +80,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/opar2043/opar2043/output/snake.svg" alt="Snake animation" />
 
 ###
 
