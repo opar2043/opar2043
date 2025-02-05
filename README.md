@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">😊I'm **Rijoan Rashid Opar**, a passionate **Frontend Developer** with a love for creating something new<br><br>- 💻 Specializing in **React, JavaScript, and modern web technologies**<br>- 🎨 Focused on creating clean, interactive, and user-friendly designs<br>- 🚀 Constantly exploring new frontend frameworks and libraries<br>- 📚 Always learning & improving to stay ahead in web development<br>⚡  Fun fact:  🐶i'm a Sports Lover</p>
+<p align="left">😊I'm **Rijoan Rashid Opar**, a passionate **Frontend Developer** with a love for creating something new<br><br>- 💻 Specializing in **React, JavaScript, and modern web technologies**<br>- 🎨 Focused on creating clean, interactive, and user-friendly designs<br>- 🚀 Constantly exploring new frontend frameworks and libraries<br>- 📚 Always learning & improving to stay ahead in web development<br>⚡  Recently i am exploring Next JS</p>
 
 ###
 
@@ -67,9 +67,6 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="https://www.instagram.com/opar2043?igsh=MWh6bXQzcnVhb2JwOA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
   <a href="https://www.facebook.com/share/1AY9hw3GT2/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
