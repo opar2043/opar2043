@@ -75,7 +75,7 @@
 
 ###
 
-<p align="left">📧 **Email:** rezonerashidopar@gmail.com<br>🌐 **Portfolio:** https://cosmic-bombolone-28a715.netlify.app/<br>**Resume:** https://0fj.cc/hNkRN9wt3dj<br>📱**Mobille**:  01814482832</p>
+<p align="left">📧 **Email:** rezonerashidopar@gmail.com<br>🌐 **Portfolio:** https://cosmic-bombolone-28a715.netlify.app/<br>📄**Resume:** https://0fj.cc/hNkRN9wt3dj<br>📱**Mobille**:  01814482832</p>
 
 ###
 
