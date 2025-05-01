@@ -2,6 +2,10 @@
   <img height="300" src="https://i.ibb.co.com/C5mPXqWy/git-Hub-Png2.png"  />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=opar2043&label=Profile%20views&color=0e75b6&style=flat" alt="opar2043" />
+</p>
+
 ###
 
 <h1 align="center">👋 Hey there!</h1>
