@@ -52,16 +52,27 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=elementor" height="40" alt="elementor logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
 </div>
+
 
 ###
 
@@ -70,9 +81,29 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=opar2043&theme=dracula&show_icons=true&count_private=true&cache_seconds=3600" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opar2043&layout=compact&langs_count=5&theme=dracula" height="150" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=opar2043&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opar2043&layout=compact&theme=dracula&langs_count=8" height="150" alt="Top Languages" />
+
 </div>
+
+<div align="center">
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=opar2043&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opar2043&theme=dracula" height="300" alt="GitHub Activity Graph" />
+
+</div>
+
 
 ###
 
