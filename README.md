@@ -84,7 +84,7 @@
   <!-- <img src="your-banner-url" alt="header"/> -->
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=dracula" height="300" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opar2043&theme=dracula" height="300" alt="GitHub Activity Graph" />
 
   <!-- Stats Row -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
