@@ -78,21 +78,23 @@
 <h1 align="left">📊 GitHub Stats</h1>
 
 ###
-
 <div align="center">
-
+  
+  <!-- Banner/Header Image (optional) -->
+  <!-- <img src="your-banner-url" alt="header"/> -->
+  
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opar2043&theme=dracula" height="300" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=dracula" height="300" alt="GitHub Activity Graph" />
 
   <!-- Stats Row -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
-    
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=opar2043&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opar2043&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
-
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula" height="150" alt="Streak Stats" />
   </div>
+
+  <!-- Streak Stats -->
+
 
 </div>
 
