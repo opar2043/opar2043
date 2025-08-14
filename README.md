@@ -84,13 +84,14 @@
   <!-- <img src="your-banner-url" alt="header"/> -->
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opar2043&theme=dracula" height="300" alt="GitHub Activity Graph" />
+
 
   <!-- Stats Row -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=opar2043&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opar2043&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opar2043&theme=dracula" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opar2043&theme=dracula" height="200" alt="GitHub Activity Graph" />
   </div>
 
   <!-- Streak Stats -->
