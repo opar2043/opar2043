@@ -44,12 +44,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=elementor" height="40" alt="elementor logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
 </div>
+
 
 ###   
 
