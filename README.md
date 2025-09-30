@@ -110,7 +110,7 @@
 
 ###
 
-<p align="left">📧 **Email:** rezonerashidopar@gmail.com<br>🌐 **Portfolio:** https://rijoanrashidopar.netlify.app/<br>📄**Resume:** https://0fj.cc/hNkRN9wt3dj<br>📱**Mobille**:  01814482832</p>
+<p align="left">📧 **Email:** rezonerashidopar@gmail.com<br>🌐 **Portfolio:** https://rijoanrashidopar.netlify.app/<br>📄**Resume:** https://drive.google.com/file/d/14NamTFWQswBPswZG26jgNcrmGdJaubmj/view?usp=sharing<br>📱**Mobille**:  01814482832</p>
 
 ###
 
