@@ -81,7 +81,7 @@
 <h1 align="left">📊 GitHub Stats</h1>
 
 ###
-<div align="center">
+<div align="left">
   
   
   <!-- Activity Graph -->
@@ -96,12 +96,12 @@
    <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=opar2043&theme=dracula" height="150" alt="GitHub Activity Graph" /> -->
    ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=opar2043&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opar2043&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top Languages"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=opar2043&theme=dracula&hide_border=false" height="150" alt="GitHub Streak"/>
 </p>
 
