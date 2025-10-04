@@ -83,20 +83,33 @@
 ###
 <div align="center">
   
-  <!-- Banner/Header Image (optional) -->
-  <!-- <img src="your-banner-url" alt="header"/> -->
   
   <!-- Activity Graph -->
 
 
   <!-- Stats Row -->
-  <div style="display: flex; justify-content: center;  gap: 10px; margin-top: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=opar2043&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opar2043&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opar2043&theme=dracula" height="150" alt="Streak Stats" />
-  </div>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=opar2043&theme=dracula" height="220" alt="GitHub Activity Graph" />
+  <!-- <div style="display: flex; justify-content: center;  gap: 10px; margin-top: 15px;">  -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=opar2043&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats"/>  -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opar2043&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />  -->
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=opar2043&theme=dracula" height="150" alt="Streak Stats" />  -->
+  <!-- </div> -->      
+   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=opar2043&theme=dracula" height="150" alt="GitHub Activity Graph" /> -->
+   ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=opar2043&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opar2043&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=opar2043&theme=dracula&hide_border=false" height="150" alt="GitHub Streak"/>
+</p>
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opar2043&theme=dracula&hide_border=false" alt="GitHub Activity Graph"/>
+</p>
   <!-- Streak Stats -->
 
 
