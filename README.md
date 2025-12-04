@@ -8,7 +8,7 @@
 
 ---
 
-<h1 align="center">👋 Hey there! I'm Rijoan Rashid Opar</h1>
+<h1 align="center">👋 Hey there! I'm <b>Rijoan Rashid Opar</b></h1>
 
 <p align="center">
 😊 A passionate <b>Frontend Developer</b> who loves building something new and exciting!  
@@ -19,31 +19,29 @@
 ## 🚀 About Me  
 
 - 💻 Specializing in **React, JavaScript, and modern web technologies**  
-- 🎨 Creating **clean, interactive, and user-friendly designs**  
-- ⚡ Recently exploring **Next.js**  
-- 🔹 **Academic Background:** Currently pursuing a **BSc in CSE**  
-- 🔹 **Tech Enthusiast:** Always exploring the latest in web dev & IT innovations  
-- 🔹 **Creative Mindset:** Passion for seamless, user-focused UI/UX  
-- 🌍 Rooted in **Narayanganj, Bangladesh**  
-- 🎯 Determined to keep learning & improving  
-- 😂 **Fun fact:** I'm a huge sports lover!  
+- 🎨 Passionate about **clean, interactive, user-friendly UI/UX**  
+- ⚡ Exploring **Next.js** to level up my full-stack capabilities  
+- 🎓 Pursuing **BSc in Computer Science & Engineering (CSE)**  
+- 🌍 Based in **Narayanganj, Bangladesh**  
+- 🎯 Always learning, improving & shipping new projects  
+- 😂 **Fun Fact:** I’m a huge sports lover!  
 
 ---
 
 ## 🏴 Skills  
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="WordPress" />
-  <img src="https://skillicons.dev/icons?i=elementor" height="40" alt="Elementor" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" />
+  <img src="https://skillicons.dev/icons?i=elementor" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
 </div>
 
 ---
@@ -51,12 +49,12 @@
 ## 🛠 Tools I Use  
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=codeblocks" height="40" alt="CodeBlocks" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=codeblocks" height="40" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" />
 </div>
 
 ---
@@ -64,12 +62,13 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=opar2043&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=opar2043&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=opar2043&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opar2043&layout=compact&theme=dracula&langs_count=6&cache_seconds=1800" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=opar2043&theme=dracula&hide_border=false" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=opar2043&theme=dracula&hide_border=false" height="150" />
 </p>
 
 ---
@@ -77,7 +76,7 @@
 ## 🔥 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opar2043&theme=dracula&hide_border=false" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opar2043&theme=dracula&hide_border=false&cache_seconds=1800" />
 </p>
 
 ---
@@ -85,7 +84,7 @@
 ## 📫 Get in Touch  
 
 - 📧 **Email:** [rezonerashidopar@gmail.com](mailto:rezonerashidopar@gmail.com)  
-- 🌐 **Portfolio:** [rijoanrashidopar.netlify.app](https://rijoanrashidopar.netlify.app/)  
+- 🌐 **Portfolio:** https://rijoanrashidopar.netlify.app  
 - 📄 **Resume:** [View Resume](https://drive.google.com/file/d/14NamTFWQswBPswZG26jgNcrmGdJaubmj/view?usp=sharing)  
 - 📱 **Mobile:** +8801814482832  
 
@@ -95,19 +94,17 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/rijoan-rashid-opar/" target="_blank">
-     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" />
   </a>
   <a href="https://www.facebook.com/share/1AY9hw3GT2/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" />
   </a>
   <a href="https://wa.me/qr/7FADY5JLDLSMB1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" />
   </a>
   <a href="mailto:rezonerashidopar@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" />
   </a>
 </div>
 
 ---
-
-
