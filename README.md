@@ -3,7 +3,8 @@
 </p>
 
 <div align="center">
-  <img height="250" src="https://i.ibb.co.com/C5mPXqWy/git-Hub-Png2.png" alt="Banner" />
+  <!-- Fixed Image URL (correct domain: i.ibb.co) -->
+  <img height="250" src="https://i.ibb.co/C5mPXqWy/git-Hub-Png2.png" alt="Banner" />
 </div>
 
 ---
