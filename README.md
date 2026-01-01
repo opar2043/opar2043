@@ -21,7 +21,7 @@
 
 - 💻 Specializing in **React, JavaScript, and modern web technologies**  
 - 🎨 Passionate about **clean, interactive, user-friendly UI/UX**  
-- ⚡ Exploring **Next.js** to level up my full-stack capabilities  
+- ⚡ Exploring **Next.js** & **Backend Technologies** to level up my full-stack capabilities  
 - 🎓 Pursuing **BSc in Computer Science & Engineering (CSE)**  
 - 🌍 Based in **Narayanganj, Bangladesh**  
 - 🎯 Always learning, improving & shipping new projects  
