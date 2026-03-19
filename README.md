@@ -31,10 +31,19 @@
 
 ## 🏴 Skills  
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,reactnative,nodejs" height="40" />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,supabase" height="40" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" />
+<h3>Frontend & Mobile</h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,tailwind" height="40" />
+</div>
+
+<h3>Backend</h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+</div>
+
+<h3>Database & Tools</h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,supabase,wordpress" height="40" />
 </div>
 
 ---
