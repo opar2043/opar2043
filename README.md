@@ -38,7 +38,7 @@
 
 <h3>Backend</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi" height="40" />
 </div>
 
 <h3>Database & Tools</h3>
@@ -51,15 +51,8 @@
 ## 🛠 Tools I Use  
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
-  <img src="https://skillicons.dev/icons?i=codeblocks" height="40" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,figma,postman,firebase,docker,betterauth" height="40" />
 </div>
-
 ---
 
 ## 📊 GitHub Stats  
