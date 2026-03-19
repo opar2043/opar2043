@@ -32,17 +32,9 @@
 ## 🏴 Skills  
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,reactnative,nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,supabase" height="40" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" />
-  <img src="https://skillicons.dev/icons?i=elementor" height="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
 </div>
 
 ---
@@ -56,6 +48,7 @@
   <img src="https://skillicons.dev/icons?i=codeblocks" height="40" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />
 </div>
 
 ---
