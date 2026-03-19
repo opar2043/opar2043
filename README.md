@@ -33,17 +33,12 @@
 
 <h3>Frontend & Mobile</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,tailwind" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,reactnative,tailwind,wordpress" height="40" />
 </div>
 
 <h3>Backend</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi" height="40" />
-</div>
-
-<h3>Database & Tools</h3>
-<div>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,supabase,wordpress" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi,mongodb,postgres,mysql,prisma,supabase,neondb" height="40" />
 </div>
 
 ---
