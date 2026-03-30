@@ -12,7 +12,7 @@
 <h1 align="center">👋 Hey there! I'm <b>Rijoan Rashid Opar</b></h1>
 
 <p align="center">
-😊 A passionate <b>Frontend Developer</b> who loves building something new and exciting!  
+😊 A passionate <b>Fullstack Developer</b> who loves building something new and exciting!  
 </p>
 
 ---
