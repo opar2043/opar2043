@@ -4,7 +4,8 @@
 
 <div align="center">
   <!-- Fixed Image URL (correct domain: i.ibb.co) -->
-  <img height="250" src="https://i.ibb.co/C5mPXqWy/git-Hub-Png2.png" alt="Banner" />
+  <img height="250" src="https://i.ibb.co.com/whgNZjHM/opar-banner.jpg" alt="Banner" />
+  <!-- <img height="250" src="https://i.ibb.co/C5mPXqWy/git-Hub-Png2.png" alt="Banner" /> -->
 </div>
 
 ---
