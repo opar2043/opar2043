@@ -77,7 +77,7 @@
 
 - 📧 **Email:** [rezonerashidopar@gmail.com](mailto:rezonerashidopar@gmail.com)  
 - 🌐 **Portfolio:** https://rijoanrashidopar.vercel.app  
-- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/14NamTFWQswBPswZG26jgNcrmGdJaubmj/view?usp=sharing)  
+- 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1lVSprbpfgEPu_5PBY5Gq8yNMtWi7HpDb/view)  
 - 📱 **Mobile:** +8801814482832  
 
 ---
