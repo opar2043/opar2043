@@ -39,7 +39,7 @@
 
 <h3>Backend</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi,mongodb,postgres,mysql,prisma,supabase,neondb,graphql" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi,mongodb,postgres,mysql,prisma,supabase,graphql" height="40" />
 </div>
 
 ---
