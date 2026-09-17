@@ -75,6 +75,7 @@
 
 ## 📫 Get in Touch  
 
+- 📄 **Intriduction:** [Introduction](https://drive.google.com/file/d/1Uw2pQ9_sz0t1WrxEiORYaAI-C_7UiOOx/view?usp=drivesdk)  
 - 📧 **Email:** [rezonerashidopar@gmail.com](mailto:rezonerashidopar@gmail.com)  
 - 🌐 **Portfolio:** https://rijoanrashidopar.vercel.app  
 - 📄 **Resume:** [View Resume](https://drive.google.com/file/d/1lVSprbpfgEPu_5PBY5Gq8yNMtWi7HpDb/view)  
