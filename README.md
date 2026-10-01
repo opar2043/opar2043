@@ -168,7 +168,7 @@
 ## 📫 Get in Touch
 
 <p align="center">
-    <a href="https://rijoanrashidopar.vercel.app"><img src="https://img.shields.io/badge/Portfolio7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://rijoanrashidopar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://drive.google.com/file/d/1lVSprbpfgEPu_5PBY5Gq8yNMtWi7HpDb/view"><img src="https://img.shields.io/badge/Resume-View_PDF-58a6ff?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="https://drive.google.com/file/d/1Uw2pQ9_sz0t1WrxEiORYaAI-C_7UiOOx/view?usp=drivesdk"><img src="https://img.shields.io/badge/Introduction-Watch_Now-8957e5?style=for-the-badge&logo=googledrive&logoColor=white" alt="Introduction video" /></a>
 </p>
