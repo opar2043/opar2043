@@ -36,10 +36,10 @@
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| 🏕️ **Little Street, UK** | UK caravan & holiday-home booking marketplace with card payments and role-based dashboards. | `Next.js` `Tailwind CSS` `Firebase` `TanStack Query` `Stripe` | [Live](https://www.littleretreat.uk/) |
-| 🎬 **Movies OK** | Movie streaming, review & ticketing platform with an admin dashboard. | `Next.js` `Prisma` `PostgreSQL` `Better Auth` `Zod` `Stripe` | [Live](https://movies-okorg.vercel.app/) |
-| ✅ **Daily Tracker** | All-in-one life app: tasks, Namaz & Quran tools, notes and unit converter. | `React Native` `Expo` `NativeWind` `Firebase` | [Beta APK](https://drive.google.com/file/d/1My6cpTGbvpkkB4j6zgQmWKN2Ugfoyico/view?usp=sharing) |
-| 👗 **Fashion Bay** | Modern fashion e-commerce storefront with a smooth shopping flow. | `React` `Vite` `Tailwind CSS` `Firebase` `Axios` | [Live](https://fashion-bay-pro.netlify.app/) |
+| **Little Street, UK** | UK caravan & holiday-home booking marketplace with card payments and role-based dashboards. | `Next.js` `Tailwind CSS` `Firebase` `TanStack Query` `Stripe` | [Live](https://www.littleretreat.uk/) |
+| **Movies OK** | Movie streaming, review & ticketing platform with an admin dashboard. | `Next.js` `Prisma` `PostgreSQL` `Better Auth` `Zod` `Stripe` | [Live](https://movies-okorg.vercel.app/) |
+| **Daily Tracker** | All-in-one life app: tasks, Namaz & Quran tools, notes and unit converter. | `React Native` `Expo` `NativeWind` `Firebase` | [Beta APK](https://drive.google.com/file/d/1My6cpTGbvpkkB4j6zgQmWKN2Ugfoyico/view?usp=sharing) |
+| **Fashion Bay** | Modern fashion e-commerce storefront with a smooth shopping flow. | `React` `Vite` `Tailwind CSS` `Firebase` `Axios` | [Live](https://fashion-bay-pro.netlify.app/) |
 
 <p align="center">
   <a href="https://github.com/opar2043?tab=repositories">
@@ -168,14 +168,12 @@
 ## 📫 Get in Touch
 
 <p align="center">
-  <a href="mailto:rezonerashidopar@gmail.com"><img src="https://img.shields.io/badge/Email-rezonerashidopar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://rijoanrashidopar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-rijoanrashidopar.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1lVSprbpfgEPu_5PBY5Gq8yNMtWi7HpDb/view"><img src="https://img.shields.io/badge/Resume-View_PDF-58a6ff?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
-  <a href="https://drive.google.com/file/d/1Uw2pQ9_sz0t1WrxEiORYaAI-C_7UiOOx/view?usp=drivesdk"><img src="https://img.shields.io/badge/Introduction-Watch_Now-8957e5?style=for-the-badge&logo=googledrive&logoColor=white" alt="Introduction" /></a>
-  <a href="tel:+8801814482832"><img src="https://img.shields.io/badge/Mobile-+880_1814--482832-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Mobile" /></a>
+  <a href="https://drive.google.com/file/d/1Uw2pQ9_sz0t1WrxEiORYaAI-C_7UiOOx/view?usp=drivesdk"><img src="https://img.shields.io/badge/Introduction-Watch_Now-8957e5?style=for-the-badge&logo=googledrive&logoColor=white" alt="Introduction video" /></a>
 </p>
 
 ---
