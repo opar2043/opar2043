@@ -36,7 +36,7 @@
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-| **Little Street, UK** | UK caravan & holiday-home booking marketplace with card payments and role-based dashboards. | `Next.js` `Tailwind CSS` `Firebase` `TanStack Query` `Stripe` | [Live](https://www.littleretreat.uk/) |
+| **Little Street, UK** | UK caravan & holiday-home booking marketplace with card payments and role-based dashboards and AI-assistant. | `Next.js` `Express Js` `Firebase` `TanStack Query` `Stripe` | [Live](https://www.littleretreat.uk/) |
 | **Movies OK** | Movie streaming, review & ticketing platform with an admin dashboard. | `Next.js` `Prisma` `PostgreSQL` `Better Auth` `Zod` `Stripe` | [Live](https://movies-okorg.vercel.app/) |
 | **Daily Tracker** | All-in-one life app: tasks, Namaz & Quran tools, notes and unit converter. | `React Native` `Expo` `NativeWind` `Firebase` | [Beta APK](https://drive.google.com/file/d/1My6cpTGbvpkkB4j6zgQmWKN2Ugfoyico/view?usp=sharing) |
 | **Fashion Bay** | Modern fashion e-commerce storefront with a smooth shopping flow. | `React` `Vite` `Tailwind CSS` `Firebase` `Axios` | [Live](https://fashion-bay-pro.netlify.app/) |
