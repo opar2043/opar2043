@@ -137,6 +137,7 @@
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Antigravity-00etCC?style=for-the-badge" alt="Antigravity" />
 </p>
 
 ---
