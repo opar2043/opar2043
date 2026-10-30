@@ -52,10 +52,11 @@
 
 ## 💼 Experience
 
-| Company | Role | Duration | What I Did |
+| Company | Role | Duration | Responsibilities |
 |---|---|---|---|
-| **Isya Limited, UK** (Remote) | Web Developer | Dec 2025 – Present | • Built and maintained SaaS applications<br>• Implemented new features and optimized performance<br>• Created REST APIs using PostgreSQL and Express |
-| **Famous IT Solutions** (Intern) | FullStack Developer | Mar 2025 – Jun 2025 | • Collaborated on an E-Com web app within a team<br>• Fixed bugs, added new features, and collaborated using Git<br>• Participated in code reviews, debugging and testing |
+| **Isya Limited, UK** (Remote) | Web Developer | Dec 2025 – Present | • Built & maintained SaaS applications<br>• Developed features & optimized performance<br>• Designed REST APIs with Express & PostgreSQL |
+| **Famous IT Solutions** (Intern) | FullStack Developer | Mar 2025 – Jun 2025 | • Contributed to an E-Com web app in a team<br>• Fixed bugs & shipped features using Git<br>• Joined code reviews, debugging & testing |
+
 
 ---
 
@@ -156,8 +157,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=opar2043&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=21600" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=opar2043&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=12&cache_seconds=21600" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=opar2043&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opar2043&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=12&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -173,7 +174,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opar2043&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opar2043&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=10&custom_title=Contribution%20Activity&cache_seconds=1800" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
