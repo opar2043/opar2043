@@ -39,6 +39,7 @@
 | **Little Street, UK** | UK caravan & holiday-home booking marketplace with card payments and role-based dashboards and AI-assistant. | `Next.js` `Express Js` `Firebase` `TanStack Query` `Stripe` | [Live](https://www.littleretreat.uk/) |
 | **Movies OK** | Movie streaming, review & ticketing platform with an admin dashboard. | `Next.js` `Prisma` `PostgreSQL` `Better Auth` `Zod` `Stripe` | [Live](https://movies-okorg.vercel.app/) |
 | **Daily Tracker** | All-in-one life app: tasks, Namaz & Quran tools, notes and unit converter. | `React Native` `Expo` `NativeWind` `Firebase` | [Beta APK](https://drive.google.com/file/d/1My6cpTGbvpkkB4j6zgQmWKN2Ugfoyico/view?usp=sharing) |
+| **Walletrack** | Modern full-stack personal finance & budgeting app to track daily expenses with an interactive data overview, built for speed, privacy and precision. | `React Native` `Expo` `TypeScript` `NativeWind` `Express` `MongoDB` | [Beta APK](https://drive.google.com/file/d/144a3pprQSEOzSy1aogd-PNjSsnFheFjh/view?usp=sharing) |
 | **Fashion Bay** | Modern fashion e-commerce storefront with a smooth shopping flow. | `React` `Vite` `Tailwind CSS` `Firebase` `Axios` | [Live](https://fashion-bay-pro.netlify.app/) |
 
 <p align="center">
@@ -46,6 +47,15 @@
     <img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" />
   </a>
 </p>
+
+---
+
+## 💼 Experience
+
+| Company | Role | Duration | What I Did |
+|---|---|---|---|
+| **Isya Limited, UK** (Remote) | Web Developer | Dec 2025 – Present | • Built and maintained SaaS applications<br>• Implemented new features and optimized performance<br>• Created REST APIs using PostgreSQL and Express |
+| **Famous IT Solutions** (Intern) | FullStack Developer | Mar 2025 – Jun 2025 | • Collaborated on an E-Com web app within a team<br>• Fixed bugs, added new features, and collaborated using Git<br>• Participated in code reviews, debugging and testing |
 
 ---
 
@@ -146,8 +156,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=opar2043&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opar2043&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=opar2043&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=21600" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=opar2043&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=12&cache_seconds=21600" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -163,7 +173,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opar2043&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=10&custom_title=Contribution%20Activity&cache_seconds=1800" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opar2043&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=10&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
