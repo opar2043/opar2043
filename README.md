@@ -54,7 +54,8 @@
 
 | Company | Role | Duration | Responsibilities |
 |---|---|---|---|
-| **Isya Limited, UK** (Remote) | Web Developer | Dec 2025 – Present | • Built & maintained SaaS applications<br>• Developed features & optimized performance<br>• Designed REST APIs with Express & PostgreSQL |
+| **Isya Limited, UK** (Remote) | Fullstack Developer | Dec 2025 – Present | • Built & maintained SaaS applications<br>• Developed features & optimized performance<br>• Designed REST APIs with Express & PostgreSQL |
+| **[Solvantric Limited](https://solvantric.com)** | Software Engineer | 2026 – Present | • Building web & mobile apps for clients<br>• System design & REST API development<br>• Fixing bugs, code reviews & deployments |
 | **Famous IT Solutions** (Intern) | FullStack Developer | Mar 2025 – Jun 2025 | • Contributed to an E-Com web app in a team<br>• Fixed bugs & shipped features using Git<br>• Joined code reviews, debugging & testing |
 
 
@@ -66,7 +67,7 @@
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-F1931F?style=for-the-badge&logo=javascript&logoColor=black" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -149,7 +150,7 @@
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Antigravity-00etCC?style=for-the-badge" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge" alt="Antigravity" />
 </p>
 
 ---
@@ -158,7 +159,7 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=opar2043&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opar2043&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=12&cache_seconds=1800" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opar2043&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=12&size_weight=0.5&count_weight=0.5&hide=html,css,scss&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
