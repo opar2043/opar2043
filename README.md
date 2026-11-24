@@ -24,7 +24,7 @@
 
 - 💻 Specializing in **React / Next.js, React Native & modern Fullstack web and app technologies**
 - 🎨 Passionate about **clean, interactive, user-friendly UI/UX**
-- ⚡ Exploring **AI / ML ** to level up my AI capabilities
+- ⚡ Exploring **AI & Machine Learning** to level up my AI capabilities
 - 🎓 Pursuing **BSc in Computer Science & Engineering (CSE)**
 - 🌍 Based in **Narayanganj, Bangladesh**
 - 🎯 Always learning, improving & shipping new projects
