@@ -22,9 +22,9 @@
 
 ## 🚀 About Me
 
-- 💻 Specializing in **React / Next.js, React Native & modern JavaScript web and app technologies**
+- 💻 Specializing in **React / Next.js, React Native & modern Fullstack web and app technologies**
 - 🎨 Passionate about **clean, interactive, user-friendly UI/UX**
-- ⚡ Exploring **Backend Technologies** to level up my full-stack capabilities
+- ⚡ Exploring **AI / ML ** to level up my AI capabilities
 - 🎓 Pursuing **BSc in Computer Science & Engineering (CSE)**
 - 🌍 Based in **Narayanganj, Bangladesh**
 - 🎯 Always learning, improving & shipping new projects
